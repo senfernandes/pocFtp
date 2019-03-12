@@ -1,0 +1,7 @@
+sftp:
+    image: atmoz/sftp
+    volumes:
+        - ./ftp/test:/home/test
+    ports:
+        - "22:22"
+    command: senf:test123:::test
