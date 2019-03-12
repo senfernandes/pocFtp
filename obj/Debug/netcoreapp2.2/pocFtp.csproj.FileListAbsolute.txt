@@ -1,0 +1,11 @@
+D:\github\pocFtp\bin\Debug\netcoreapp2.2\pocFtp.deps.json
+D:\github\pocFtp\bin\Debug\netcoreapp2.2\pocFtp.runtimeconfig.json
+D:\github\pocFtp\bin\Debug\netcoreapp2.2\pocFtp.runtimeconfig.dev.json
+D:\github\pocFtp\bin\Debug\netcoreapp2.2\pocFtp.dll
+D:\github\pocFtp\bin\Debug\netcoreapp2.2\pocFtp.pdb
+D:\github\pocFtp\obj\Debug\netcoreapp2.2\pocFtp.csprojAssemblyReference.cache
+D:\github\pocFtp\obj\Debug\netcoreapp2.2\pocFtp.csproj.CoreCompileInputs.cache
+D:\github\pocFtp\obj\Debug\netcoreapp2.2\pocFtp.AssemblyInfoInputs.cache
+D:\github\pocFtp\obj\Debug\netcoreapp2.2\pocFtp.AssemblyInfo.cs
+D:\github\pocFtp\obj\Debug\netcoreapp2.2\pocFtp.dll
+D:\github\pocFtp\obj\Debug\netcoreapp2.2\pocFtp.pdb
